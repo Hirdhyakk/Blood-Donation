@@ -10,7 +10,7 @@ This project is a web application designed to facilitate blood donations. It pro
 ## Technologies Used
 - **Front-End:** HTML, CSS, JavaScript
 - **Back-End:** Java (for server-side logic)
-- **Database:** MySQL (or any other preferred database)
+- **Database:** MySQL
 
 ## Setup Instructions
 1. **Clone the repository:**
